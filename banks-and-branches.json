@@ -3086,7 +3086,7 @@
         "id": 12,
         "name": "Oriental Commercial Bank Limited",
         "code": "14",
-        "paybill": null,
+        "paybill": "986500",
         "branches": [
             {
                 "name": "Head Office ",
