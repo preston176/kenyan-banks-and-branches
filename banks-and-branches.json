@@ -3086,7 +3086,7 @@
         "id": 12,
         "name": "Oriental Commercial Bank Limited",
         "code": "14",
-        "paybill": null,
+        "paybill": "986500",
         "branches": [
             {
                 "name": "Head Office ",
@@ -3134,7 +3134,7 @@
         "id": 13,
         "name": "Citibank N.A.",
         "code": "16",
-        "paybill": null,
+        "paybill": 100229,
         "branches": [
             {
                 "name": "Head Office - Nairobi ",
@@ -3223,7 +3223,7 @@
         "id": 16,
         "name": "Bank of  Africa Kenya Limited",
         "code": "19",
-        "paybill": null,
+        "paybill": 972900,
         "branches": [
             {
                 "name": "Reinsurance Plaza Nairobi ",
@@ -3366,7 +3366,7 @@
         "id": 17,
         "name": "Dubai Bank Kenya Limited",
         "code": "20",
-        "paybill": null,
+        "paybill": 342342,
         "branches": [
             {
                 "name": "Head Office ",
@@ -3502,7 +3502,7 @@
         "id": 19,
         "name": "Credit Bank Limited",
         "code": "25",
-        "paybill": null,
+        "paybill": 972700,
         "branches": [
             {
                 "name": "Head Office",
@@ -3560,7 +3560,7 @@
         "id": 20,
         "name": "Trans-National Bank Limited",
         "code": "26",
-        "paybill": null,
+        "paybill": 862862,
         "branches": [
             {
                 "name": "Head Office ",
@@ -3939,7 +3939,7 @@
         "id": 23,
         "name": "African Banking Corp. Bank Ltd",
         "code": "35",
-        "paybill": null,
+        "paybill": 111777,
         "branches": [
             {
                 "name": "Head Office\/koinange St. ",
@@ -4434,7 +4434,7 @@
         "id": 28,
         "name": "Equatorial Commercial Bank Limited",
         "code": "49",
-        "paybill": null,
+        "paybill": 498100,
         "branches": [
             {
                 "name": "Nairobi ",
@@ -4512,7 +4512,7 @@
         "id": 29,
         "name": "Paramount Universal Bank Limited",
         "code": "50",
-        "paybill": null,
+        "paybill": 907950,
         "branches": [
             {
                 "name": "Head Office ",
@@ -4633,7 +4633,7 @@
         "id": 31,
         "name": "Guaranty Trust Bank ( Kenya) Ltd.",
         "code": "53",
-        "paybill": null,
+        "paybill": 910200,
         "branches": [
             {
                 "name": "Head Office",
@@ -4726,7 +4726,7 @@
         "id": 32,
         "name": "Victoria Commercial Bank Limited",
         "code": "54",
-        "paybill": null,
+        "paybill": 842100,
         "branches": [
             {
                 "name": "Victoria Towers- Upperhill",
@@ -4744,7 +4744,7 @@
         "id": 33,
         "name": "Guardian Bank Limited",
         "code": "55",
-        "paybill": null,
+        "paybill": 344501,
         "branches": [
             {
                 "name": "Head Office ",
@@ -5001,7 +5001,7 @@
         "id": 37,
         "name": "Housing Finance Bank",
         "code": "61",
-        "paybill": null,
+        "paybill": 100400,
         "branches": [
             {
                 "name": "Head Office",
@@ -5337,7 +5337,7 @@
         "id": 39,
         "name": "K-Rep Bank Limited",
         "code": "99",
-        "paybill": null,
+        "paybill": 111999,
         "branches": [
             {
                 "name": "Head Office ",
@@ -6328,7 +6328,7 @@
         "id": 41,
         "name": "Family Bank Ltd",
         "code": "70",
-        "paybill": null,
+        "paybill": 222111,
         "branches": [
             {
                 "name": "Head Office ",
@@ -6691,7 +6691,7 @@
         "id": 42,
         "name": "Gulf African Bank Ltd",
         "code": "72",
-        "paybill": null,
+        "paybill": 985050,
         "branches": [
             {
                 "name": "Head Office ",
@@ -6784,7 +6784,7 @@
         "id": 43,
         "name": "First Community Bank",
         "code": "74",
-        "paybill": null,
+        "paybill": 919700,
         "branches": [
             {
                 "name": "Wabera Street ",
@@ -6882,7 +6882,7 @@
         "id": 44,
         "name": "UBA Kenya Bank Ltd",
         "code": "76",
-        "paybill": null,
+        "paybill": 559900,
         "branches": [
             {
                 "name": "Westlands ",
@@ -6994,7 +6994,7 @@
         "id": 48,
         "name": "Faulu Microfinance Bank",
         "code": "79",
-        "paybill": null,
+        "paybill": 328585,
         "branches": [
             {
                 "name": "Ngong Rd",
@@ -7007,7 +7007,7 @@
         "id": 49,
         "name": "KWFT Microfinance Bank",
         "code": "78",
-        "paybill": null,
+        "paybill": 101200,
         "branches": [
             {
                 "name": "Head Office",
@@ -7020,7 +7020,7 @@
         "id": 50,
         "name": "SMEP Microfinance  Bank",
         "code": "89",
-        "paybill": null,
+        "paybill": 777001,
         "branches": [
             {
                 "name": "Tumaini House",
